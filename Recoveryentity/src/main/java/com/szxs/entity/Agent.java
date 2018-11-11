@@ -10,7 +10,7 @@ public class Agent implements Serializable {
 
   private String uuid;
   private String agentname;
-  private String agentaddress;
+  private String agentaddress;//地址
   private String agentphone;
   private String agentprice;
   private String extfield1;
