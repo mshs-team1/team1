@@ -1,9 +1,8 @@
 package com.szxs.service;
 
-import com.szxs.entity.Agent;
-import com.szxs.entity.TCooperation;
+
 import com.szxs.entity.TUsers;
-import sun.management.resources.agent;
+
 
 import java.util.List;
 
@@ -13,4 +12,5 @@ public interface UserService{
     Integer addTUsers(TUsers tUsers);
     Integer delTUsers(Integer id);
     Integer updateTUsers(Integer id);
+
 }
