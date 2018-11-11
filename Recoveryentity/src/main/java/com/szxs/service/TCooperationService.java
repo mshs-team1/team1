@@ -1,6 +1,6 @@
 package com.szxs.service;
 
-import com.szxs.entity.Agent;
+
 import com.szxs.entity.TCooperation;
 
 import java.util.List;
